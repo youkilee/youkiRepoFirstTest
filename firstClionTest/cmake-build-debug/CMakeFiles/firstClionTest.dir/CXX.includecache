@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/jyoukiLab/clionLab/firstClionTest/main.cpp
+iostream
+-
+testSwap.h
+F:/jyoukiLab/clionLab/firstClionTest/testSwap.h
+
+F:/jyoukiLab/clionLab/firstClionTest/testSwap.cpp
+testSwap.h
+F:/jyoukiLab/clionLab/firstClionTest/testSwap.h
+
+F:/jyoukiLab/clionLab/firstClionTest/testSwap.h
+
